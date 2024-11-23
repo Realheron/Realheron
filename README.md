@@ -1,4 +1,4 @@
-# سلام! 👋 من [نام شما] هستم
+# Hi there! 👋 I'm Heron
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-avatar-link.png" width="150" alt="Avatar" />
@@ -6,16 +6,16 @@
 
 ---
 
-## درباره من
+## About Me
 
-🎓 **تخصص:** [زمینه کاری شما، مثلاً برنامه‌نویس پایتون، تحلیلگر امنیت]  
-💼 **فعالیت:** [شغل فعلی یا پروژه‌های جاری]  
-🌱 **یادگیری:** در حال یادگیری [مهارت یا فناوری موردنظر]  
-✍️ **علاقه‌مندی‌ها:** [چند حوزه مورد علاقه شما]
+🎓 **Expertise:** [Your field, e.g., Python Developer, Cybersecurity Analyst]  
+💼 **Current Role:** [Your current job or ongoing projects]  
+🌱 **Learning:** Currently exploring [skills or technologies you're learning]  
+✍️ **Interests:** [A few areas you are passionate about]  
 
 ---
 
-## مهارت‌ها
+## Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -26,15 +26,15 @@
 
 ---
 
-## پروژه‌های من
+## My Projects
 
-🔗 **[نام پروژه 1](https://github.com/username/project1):** توضیح کوتاه درباره پروژه.  
-🔗 **[نام پروژه 2](https://github.com/username/project2):** توضیح کوتاه درباره پروژه.  
-🔗 **[نام پروژه 3](https://github.com/username/project3):** توضیح کوتاه درباره پروژه.
+🔗 **[Project Name 1](https://github.com/username/project1):** A short description of the project.  
+🔗 **[Project Name 2](https://github.com/username/project2):** A short description of the project.  
+🔗 **[Project Name 3](https://github.com/username/project3):** A short description of the project.
 
 ---
 
-## آمار گیت‌هاب من
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="400" alt="GitHub Stats" />
@@ -43,12 +43,12 @@
 
 ---
 
+## Connect with Me
 
-
-📧 **ایمیل:** [your.email@example.com](mailto:your.email@example.com)  
-🔗 **لینکدین:** [لینک لینکدین شما](https://linkedin.com/in/username)  
-🌐 **وب‌سایت:** [وب‌سایت شما](https://yourwebsite.com)  
+📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/username)  
+🌐 **Website:** [Your Website](https://yourwebsite.com)  
 
 ---
 
-<p align="center">با کدنویسی، ساختن و یادگیری دنیا را تغییر دهیم! 🚀</p>
+<p align="center">Let's code, create, and learn to make the world a better place! 🚀</p>
