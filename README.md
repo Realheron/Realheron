@@ -22,14 +22,6 @@
 
 ---
 
-## My Projects
-
-🔗 **[Project Name 1](https://github.com/username/project1):** A short description of the project.  
-🔗 **[Project Name 2](https://github.com/username/project2):** A short description of the project.  
-🔗 **[Project Name 3](https://github.com/username/project3):** A short description of the project.
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -41,10 +33,5 @@
 
 ## Connect with Me
 
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/username)  
-🌐 **Website:** [Your Website](https://yourwebsite.com)  
+📧 **Email:** [IF YOU WANT TO CONTACT WITH ME AND SHARE IDEAS OR WHAT EVER :)](theh6ron@gmail.com)  
 
----
-
-<p align="center">Let's code, create, and learn to make the world a better place! 🚀</p>
