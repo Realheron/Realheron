@@ -1,13 +1,5 @@
 # Hi there! 👋 I'm Heron
 <p align="center">Let's code, create, and learn to make the world a better place! 🚀</p>
----
-
-## About Me
-
-🎓 **Expertise:** [Your field, e.g., Python Developer, Cybersecurity Analyst]  
-💼 **Current Role:** [Your current job or ongoing projects]  
-🌱 **Learning:** Currently exploring [skills or technologies you're learning]  
-✍️ **Interests:** [A few areas you are passionate about]  
 
 ---
 
