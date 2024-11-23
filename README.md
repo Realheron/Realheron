@@ -1,9 +1,5 @@
 # Hi there! 👋 I'm Heron
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-avatar-link.png" width="150" alt="Avatar" />
-</p>
-
 ---
 
 ## About Me
