@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Heron
-
-
+<p align="center">Let's code, create, and learn to make the world a better place! 🚀</p>
+---
 
 ## About Me
 
